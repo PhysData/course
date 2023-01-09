@@ -12,7 +12,7 @@ version = '0.1.0'
 # -- General configuration
 
 extensions = [
-    'nbsphinx',
+    'myst_nb',
     'sphinx.ext.duration',
     'sphinx.ext.doctest',
     'sphinx.ext.autodoc',
