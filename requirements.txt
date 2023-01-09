@@ -1,2 +1,7 @@
 sphinx-rtd-theme>=0.4
 myst-nb>=0.13.1
+datasets
+fastai
+scipy
+sklearn
+sklearn
