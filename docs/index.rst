@@ -13,8 +13,3 @@ This course covers the use of data science in physics from the most fundamental 
    :caption: Late 20th Century - 21st Century
 
    notebooks/tabular_dnn
-
-.. toctree::
-
-   usage
-   api
