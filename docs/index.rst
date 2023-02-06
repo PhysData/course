@@ -17,4 +17,5 @@ This course covers the use of data science in physics from the most fundamental 
    :maxdepth: 1
    :caption: Late 20th Century - 21st Century
 
+   late
    notebooks/tabular_dnn
