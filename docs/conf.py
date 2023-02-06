@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'Physics and Data Science'
+copyright = '2023, Physics and Data Science group'
+author = 'Alex, Fabienne, Simona, Josh, Jakub'
 
 release = '0.1'
 version = '0.1.0'
@@ -37,3 +37,5 @@ html_theme = 'sphinx_rtd_theme'
 epub_show_urls = 'footnote'
 
 nbsphinx_execute = 'never'
+nb_execution_mode = "off"
+nb_execution_allow_errors = False
