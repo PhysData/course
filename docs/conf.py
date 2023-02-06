@@ -37,5 +37,5 @@ html_theme = 'sphinx_rtd_theme'
 epub_show_urls = 'footnote'
 
 nbsphinx_execute = 'never'
-# nb_execution_mode = "off"
+nb_execution_mode = "off"
 # nb_execution_allow_errors = False
