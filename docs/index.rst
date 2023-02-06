@@ -16,5 +16,5 @@ This course covers the use of data science in physics from the most fundamental 
 .. toctree::
    :maxdepth: 1
    :caption: Late 20th Century - 21st Century
-   late
+   .. late
    notebooks/tabular_dnn
