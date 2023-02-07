@@ -1,4 +1,4 @@
-Late 20th century and early 21st century: the advent of machine learning
+Machine Learning Primer
 =================================
 
 The technological advancements of the late 20th century paved the way for large scale data processing units capable of running multiple tasks in parallel.

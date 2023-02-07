@@ -5,3 +5,4 @@ fastai
 scipy
 sklearn
 sklearn
+nbsphinx
