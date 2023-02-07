@@ -13,14 +13,15 @@ version = '0.1.0'
 
 extensions = [
     'nbsphinx',
-    'myst_nb',
-    'sphinx.ext.duration',
-    'sphinx.ext.doctest',
-    'sphinx.ext.autodoc',
-    'sphinx.ext.autosummary',
-    'sphinx.ext.intersphinx',
-    'sphinx.ext.imgmath',
+    'sphinx.ext.mathjax',
+    # 'sphinx.ext.duration',
+    # 'sphinx.ext.doctest',
+    # 'sphinx.ext.autodoc',
+    # 'sphinx.ext.autosummary',
+    # 'sphinx.ext.intersphinx',
+    # 'sphinx.ext.imgmath',
 ]
+nbsphinx_execute = 'never'
 
 intersphinx_mapping = {
     'python': ('https://docs.python.org/3/', None),
@@ -37,6 +38,5 @@ html_theme = 'sphinx_rtd_theme'
 # -- Options for EPUB output
 epub_show_urls = 'footnote'
 
-nbsphinx_execute = 'never'
-nb_execution_mode = "off"
+# nb_execution_mode = "off"
 # nb_execution_allow_errors = False
