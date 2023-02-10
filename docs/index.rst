@@ -22,6 +22,7 @@ This course covers the use of data science in physics from the most fundamental 
    mid
    linreg
    notebooks/elmag
+   notebooks/light
 
 
 .. toctree::
