@@ -13,10 +13,18 @@ This course covers the use of data science in physics from the most fundamental 
    :caption: Early Data Science
 
    notebooks/kepler
+
+.. toctree::
+   :maxdepth: 1
+   :caption: 19th Century 
+
+   notebooks/elmag
+
+
 .. toctree::
    :maxdepth: 1
    :caption: Late 20th Century - 21st Century
 
-   notebooks/data_visualisation
    late
+   notebooks/data_visualisation
    notebooks/tabular_dnn
