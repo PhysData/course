@@ -20,7 +20,6 @@ This course covers the use of data science in physics from the most fundamental 
    :caption: 19th Century
 
    mid
-   linreg
    notebooks/elmag
    notebooks/light
 
