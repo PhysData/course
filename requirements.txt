@@ -3,6 +3,5 @@ myst-nb>=0.13.1
 datasets
 fastai
 scipy
-sklearn
-sklearn
+scikit-learn
 nbsphinx
