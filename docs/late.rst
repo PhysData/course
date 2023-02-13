@@ -1,5 +1,7 @@
 Machine Learning Primer
 =================================
+Neural networks
+---------------
 
 The technological advancements of the late 20th century paved the way for large scale data processing units capable of running multiple tasks in parallel.
 Compute paralellization led to the adoption of new techniques for data analysis developed throughout the second half of the 20th century, the most prominent of which being the introduction of the multi-layer perceptron.
@@ -13,8 +15,8 @@ The above figure shows the structure and function of a single perceptron, with i
 By stacking many of these neurons together, we can form a "neural network" which can learn representations of high dimensional data. Neural networks are currently ubiquitous in data science thanks to their ability to learn complex representations from vast amounts of data. In physics, neural networks are particularly helpful in particle physics, in which experiments such as ATLAS produce vast amounts of data that cannot be parsed by a single team of scientists.
 In the following notebooks, we'll explore applications of neural networks in particle physics.
 
-Data management and Machine learning
-=========================
+Data in machine learning
+------------------------------------
 
 Neural networks form only a small portion of the development and research work done by data scientists or physicists using data science in their data exploration. The bulk of the work consists of preprocessing the dataset to make sure only clean and relevant data gets sent to the final neural network.
 
