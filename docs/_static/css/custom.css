@@ -1,0 +1,11 @@
+.wy-menu .wy-menu-vertical .wy-side-scroll .wy-nav-side {
+    background-color: "#FF91AE";
+    color: "#FF91AE";
+    background: "#FF91AE";
+}
+
+.toctree-l1 {
+    /* background-color: "#FF91AE"; */
+    color: "black";
+    /* background: "#FF91AE"; */
+}
