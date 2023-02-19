@@ -32,3 +32,16 @@ This website covers the use of data science in physics from the most fundamental
    time
    notebooks/data_visualisation
    notebooks/tabular_dnn
+
+.. toctree::
+   :maxdepth: 1
+   :caption: Modern Data Science Methods
+
+   notebooks/storage
+   notebooks/cleaning_notebook
+
+.. toctree::
+   :maxdepth: 1
+   :caption: References
+
+   references
