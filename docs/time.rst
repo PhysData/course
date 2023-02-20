@@ -11,4 +11,4 @@ The data from which this discovery was made is an analogue form of **timeseries 
 
 .. image:: media/data1.png
    :width: 600
-`Figure (1) <https://www.researchgate.net/figure/The-discovery-records-of-the-first-pulsar-discovered-PSR-1919-21-aThe-scintillation_fig3_347880951>`_: The timeseries data from which Jocelyn Bell Burnell identified CP1919.
+`Figure (1) <https://www.researchgate.net/figure/The-discovery-records-of-the-first-pulsar-discovered-PSR-1919-21-aThe-scintillation_fig3_347880951>`_ : The timeseries data from which Jocelyn Bell Burnell identified CP1919.
