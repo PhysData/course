@@ -1,4 +1,10 @@
-Early use of data
-=================================
+Early use of data and Johannes Kepler
+==============================================
 
 This section covers the origins of data science prior to the invention of the digital computer or advanced analogue devices for performing difficult computations.
+
+Johannes Kepler was a German astronomer, born in 1571 - centuries before the term 'data science' came into existence, however, the methods that he used to study the orbit of Mars and formulate his laws of planetary motion could be considered an early form of data science. Kepler's work predates Newton's law of gravitation, thus, he used the naked-eye observations of Tycho Brahe to plot the orbit of Mars and fit the data to a model, eventually discovering that the orbital paths of planets are elliptical rather than circular and improving upon Nicolaus Copernicus's heliocentric model of the solar system.
+
+This leads directly into the first of Kepler's laws of planetary motion - "The orbit of every planet is an ellipse with the Sun at one of the two foci." Kepler could use Brahe's data points to approximate the eccentricity and size of a planet's orbital path, however, since calculus had yet to be invented, his methodology consisted of first splitting the data and beginning with an 'ansatz', then iterating until he had a model which fit the observations. He finally used the remaining data as an independent set to verify his model, hence working in fundamentally the same way as data scientists do today - the only significant difference being the technology available to him.
+
+Kepler formulated his second law - "a line joining a planet and the Sun sweeps out equal areas during equal intervals of time”, while trying to optimise his parameters with regards to the data, and much later his third law - "the square of a planet’s orbital period is proportional to the cube of the semi-major axis of its orbit" through trial and error with the data points he had.
