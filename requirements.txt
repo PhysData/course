@@ -5,3 +5,4 @@ fastai
 scipy
 scikit-learn
 nbsphinx
+sphinx-togglebutton
