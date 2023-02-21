@@ -19,7 +19,6 @@ This website covers the use of data science in physics from the most fundamental
    :maxdepth: 1
    :caption: 19th Century
 
-   mid
    notebooks/elmag
    notebooks/light
 
