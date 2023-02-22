@@ -1,11 +1,15 @@
 References and Supplementary Materials
 ========================================
 
+Early Data Science
+-------------------
 * `Orbits and Kepler's Laws <https://solarsystem.nasa.gov/resources/310/orbits-and-keplers-laws/#:~:text=Kepler's%20Laws%20of%20Planetary%20Motion&text=They%20describe%20how%20(1)%20planets,its%20semi%2Dmajor%20axis>`_
 * `Mars Orbits workshop <https://github.com/pulkitsingh/Mars-Orbit-Workshop>`_
 * `Python Three Body Orbits <https://towardsdatascience.com/use-python-to-create-three-body-orbits-329ffb5b2627>`_
 * `Johannes Kepler and Tycho de Brahe <http://galileo.phys.virginia.edu/classes/609.ral5q.fall04/LecturePDF/L08-KEPLER.pdf>`_
 
+18th - 19th Century 
+--------------------
 * `I. G. Hughes and T. P. A. Hase, Measurements and their Uncertainties`, Oxford University Press, Oxford (2010), pp. 39
 * `Analyzing speed of light measurements <https://risk-engineering.org/notebook/data-analysis-speed-light.html>`_ [online]
 * `Speed of light <https://en.wikipedia.org/wiki/Speed_of_light#Measurement>`_ [online]
@@ -16,6 +20,8 @@ References and Supplementary Materials
 * `R. J. MacKay and R. W. Oldford, *Scientific Method, Statistical Method and the Speed of Light*`, Statistical Science, 2000, 15:3, pp. 254–278
 * `S. Prokhovnik and W. Morris, *A review of speed of light measurements since 1676*`, CEN Tech. J. 1993, 7:2, pp. 181–183
 
+20th - 21th Century 
+--------------------
 * `Discovery of Pulsars <https://www.cam.ac.uk/stories/journeysofdiscovery-pulsars>`_
 * `Jocelyn Bell Burnell <https://starchild.gsfc.nasa.gov/docs/StarChild/whos_who_level2/bell.html>`_
 * `HuggingFace Timeseries Anomaly Detection <https://huggingface.co/keras-io/timeseries-anomaly-detection>`_
