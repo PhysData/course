@@ -17,15 +17,16 @@ This website covers the use of data science in physics from the most fundamental
 
 .. toctree::
    :maxdepth: 1
-   :caption: 19th Century
+   :caption: 18th - 19th Century
 
+   mid
    notebooks/elmag
    notebooks/light
 
 
 .. toctree::
    :maxdepth: 1
-   :caption: Late 20th Century - 21st Century
+   :caption: Late 20th - 21st Century
 
    late
    time
