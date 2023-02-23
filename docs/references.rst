@@ -32,6 +32,7 @@ Early Data Science
 * `FastAI <https://www.fast.ai/>`_
 * `Receiver Operating Characteristic Curve <https://en.wikipedia.org/wiki/Receiver_operating_characteristic>`_
 * `Deep Learning for Particle Physicists <https://lewtun.github.io/dl4phys/intro.html>`_
+* Kryukov, A. P., and A. P. Demichev. “Architecture of Distributed Data Storage for Astroparticle Physics.” Lobachevskii Journal of Mathematics, vol. 39, no. 9, 2018, pp. 1199–206, https://doi.org/10.1134/S1995080218090123.
 
 Data Science
 -----------------------

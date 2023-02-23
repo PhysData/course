@@ -37,6 +37,7 @@ This website covers the use of data science in physics from the most fundamental
    :maxdepth: 1
    :caption: Modern Data Science Methods
 
+   storage
    notebooks/storage
    notebooks/cleaning_notebook
 
